@@ -1,0 +1,9 @@
+@media screen and (max-width:400px) {
+  .container {
+    .photos-sec {
+      display: grid;
+      grid-template-columns: 1fr;
+      grid-auto-rows: 1fr;
+    }
+  }
+}
